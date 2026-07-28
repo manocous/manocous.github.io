@@ -50,10 +50,13 @@ Our focus is seamless device-to-cloud operation, hardened platforms, and resilie
 
 ## Past clients 🤝
 
-We have delivered work for teams building ambitious products and platforms.
+We have delivered work for teams building ambitious products and platforms:
 
-| [**Lucid Motors**](https://lucidmotors.com/) | [**Shady Hill Studios**](https://www.shadyhillstudios.com/) | [**Subvertical LLC / VerticalChange**](https://www.verticalchange.com/) |
-| :------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------------: |
+#### [Lucid Motors](https://lucidmotors.com/)
+
+#### [Shady Hill Studios](https://www.shadyhillstudios.com/)
+
+#### [Subvertical LLC / VerticalChange](https://www.verticalchange.com/)
 
 ---
 
