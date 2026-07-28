@@ -17,21 +17,21 @@ We design and build modern infrastructure and distributed systems that remain re
 
 ## Capabilities 🧩
 
-### Kubernetes ☸️
+### Kubernetes
 
 We have experience anywhere from orchestrating clusters to creating custom operators.
 We speak native k8s, and our solutions reflect that.
 
 ---
 
-### Cloud Infrastructure ☁️
+### Cloud Infrastructure
 
 Whether you need a fleet of servers to collect telemetry from IoT devices,
 or to process petabytes of data — we help you build it, scale it, and maintain it using state-of-the-art techniques and best practices.
 
 ---
 
-### IoT Security 🔐
+### IoT Security
 
 We integrate IoT into existing infrastructure while prioritizing security from the start.
 Our focus is seamless device-to-cloud operation, hardened platforms, and resilient data flows.
@@ -45,6 +45,15 @@ Our focus is seamless device-to-cloud operation, hardened platforms, and resilie
 - Observability as a first-class feature
 - Security by design
 - Systems that are easy to reason about
+
+---
+
+## Past clients 🤝
+
+We have delivered work for teams building ambitious products and platforms.
+
+| [**Lucid Motors**](https://lucidmotors.com/) | [**Shady Hill Studios**](https://www.shadyhillstudios.com/) | [**Subvertical LLC / VerticalChange**](https://www.verticalchange.com/) |
+| :------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------------: |
 
 ---
 
